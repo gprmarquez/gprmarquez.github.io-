@@ -78,7 +78,7 @@ figure {
   float: left;
   width: 300px;
   position: fixed;
-  overflow: scroll;
+  overflow: auto;
   z-index: 1001;
   background: #f2f3f7;
   -webkit-transition: 0.5s;
@@ -249,7 +249,7 @@ figure {
       #colorlib-hero .flexslider .slides li {
         background-repeat: no-repeat;
         background-size: cover;
-        background-position: bottom center;
+        background-position: top left;
         min-height: 400px;
         position: relative; }
     #colorlib-hero .flexslider .flex-control-nav {
@@ -334,7 +334,7 @@ figure {
           border: none;
           font-weight: 400; }
           #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn {
-            color: #000;
+            color: rgb(0, 0, 0);
             border: 1px solid #000;
             background: transparent !important; }
             #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn:hover {

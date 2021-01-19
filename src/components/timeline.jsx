@@ -21,8 +21,12 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Internship at Juniper <span>2019-present</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+                        <h2>Major League Hacking (MLH) Fellowship <span>Oct. 2020 - Dec. 2020</span></h2>
+                        <p>
+                          I was able to dive into collaboration and learning through the MLH Fellowship. I was immediately immersed in new tools and techniques as we were tasked to develop tools and applications in 2-week sprints with various themes and focuses, such as education, social good, and gaming. 
+                          <br></br>
+                          This is where I conveyed my adaptiveness and willingness to learn through the projects where I utilized React, Angular, Unity, for the first time. In the end, I graduated with podmates that I would love to work with again, and projects that I can always go back to and expand.    
+                        </p>
                       </div>
                     </div>
                   </article>
@@ -32,8 +36,10 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Undergraduation at DAIICT<span>2015-2019</span></h2>
-                        <p>I am pursuing my under-graduation studies with major in I.C.T.(Information & Communication Technology). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p>
+                        <h2>Career at Caltech <span>2018-Present</span></h2>
+                        <p>
+                          My work at Caltech started off as an 8-week intern for the Council for the Advancement and Support of Education (CASE). I was tasked to automate the business process of routing gift agreements for approvals using tools that Caltech already had, which included an Office 365 package. I mainly used Microsoft Flow (now Power Automate) and connected it to their customized intranet on SharePoint, interacting with their lists, forms, and libraries. My favorite part was that they gave me the freedom to execute the project through every stage, from planning and development, to testing, training, and deployment! 
+                        </p>
                       </div>
                     </div>
                   </article>
@@ -43,8 +49,16 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Primary and Higher Education <span>2003-2015</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                        <h2>University of California, Riverside <span>2014-2018</span></h2>
+                        <p>
+                          I moved from Gaithersburg, MD as a first generation college student. While completing a degree in Business Administration with a focus on Management, I worked with multiple facets of higher education: 
+                          <ul>
+                            <li>Honed my speaking skills as a campus ambassdor with Undergraduate Admissions</li> 
+                            <li>Built rapport with my community through guiding incoming students and families as an orientation leader in student life</li>  
+                            <li>Connected with UCR Alumni as the Alumni & Constituent Relation's social media intern</li>
+                            <li>Ate a lot of food throughout my work as a cook & cashier in the Dining Department</li>
+                          </ul>
+                        </p> 
                       </div>
                     </div>
                   </article>

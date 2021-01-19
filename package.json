@@ -1,8 +1,8 @@
 {
-  "name": "portfolio-app",
+  "name": "gprmarquez-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dbarochiya.github.io/me",
+  "homepage": "https://gprmarquez.github.io/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.3",
