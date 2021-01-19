@@ -20,9 +20,9 @@ export default class Projects extends Component {
 											<h3><a href="https://devpost.com/software/giv4gud" target="_blank">MLH Project: Giv4Gud</a></h3>
 											<span>Expo Application</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+												{/* <span><a href="#"><i className="icon-share3" /></a></span> */}
+												{/* <span><a href="#"><i className="icon-eye" /> 100</a></span> */}
+												{/* <span><a href="#"><i className="icon-heart" /> 49</a></span> */}
 											</p>
 										</div>
 									</div>
@@ -35,9 +35,9 @@ export default class Projects extends Component {
 											<h3><a href="https://devpost.com/software/freecoursex" target="_blank">MLH Project: freeCourseX</a></h3>
 											<span>Developer Tools</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+												{/* <span><a href="#"><i className="icon-share3" /></a></span> */}
+												{/* <span><a href="#"><i className="icon-eye" /> 100</a></span> */}
+												{/* <span><a href="#"><i className="icon-heart" /> 49</a></span> */}
 											</p>
 										</div>
 									</div>
@@ -50,9 +50,9 @@ export default class Projects extends Component {
 											<h3><a href="https://devpost.com/software/salary-io-nuohk0" target="_blank">MLH Project: Salary.io</a></h3>
 											<span>Machine Learning</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+												{/* <span><a href="#"><i className="icon-share3" /></a></span> */}
+												{/* <span><a href="#"><i className="icon-eye" /> 100</a></span> */}
+												{/* <span><a href="#"><i className="icon-heart" /> 49</a></span> */}
 											</p>
 										</div>
 									</div>
@@ -65,9 +65,9 @@ export default class Projects extends Component {
 											<h3><a href="https://devpost.com/software/green-geese" target="_blank">MLH Project: Green-Geese</a></h3>
 											<span>Unity, Game Development</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+												{/* <span><a href="#"><i className="icon-share3" /></a></span> */}
+												{/* <span><a href="#"><i className="icon-eye" /> 100</a></span> */}
+												{/* <span><a href="#"><i className="icon-heart" /> 49</a></span> */}
 											</p>
 										</div>
 									</div>
@@ -80,9 +80,9 @@ export default class Projects extends Component {
 											<h3><a href="work.html">MLH Project: Best-Geese</a></h3>
 											<span>Education</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+												{/* <span><a href="#"><i className="icon-share3" /></a></span> */}
+												{/* <span><a href="#"><i className="icon-eye" /> 100</a></span> */}
+												{/* <span><a href="#"><i className="icon-heart" /> 49</a></span> */}
 											</p>
 										</div>
 									</div>
@@ -95,9 +95,9 @@ export default class Projects extends Component {
 											<h3><a href="https://gprmarquez.github.io/Random-Quote/" target="_blank">Random Quote Generator</a></h3>
 											<span>Vanilla HTML, CSS, JavaScript</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+												{/* <span><a href="#"><i className="icon-share3" /></a></span> */}
+												{/* <span><a href="#"><i className="icon-eye" /> 100</a></span> */}
+												{/* <span><a href="#"><i className="icon-heart" /> 49</a></span> */}
 											</p>
 										</div>
 									</div>
