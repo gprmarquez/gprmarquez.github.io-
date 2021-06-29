@@ -15,13 +15,26 @@ export default class Timeline extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
-                  <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-2">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Starting at UChicago MBSD <span>July. 2021 - Present</span></h2>
+                        <p>
+                          I am excited to continue my prospect research career at the University of Chicago!
+                        </p>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-4">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Career at Caltech <span>2018-Present</span></h2>
+                        <h2>Career at Caltech <span>Aug. 2018 - June 2021</span></h2>
                         <p>
                           My work at Caltech started off as an 8-week intern for the Council for the Advancement and Support of Education (CASE). I was tasked to automate the business process of routing gift agreements for approvals using tools that Caltech already had, which included an Office 365 package. I mainly used Microsoft Flow (now Power Automate) and connected it to their customized intranet on SharePoint, interacting with their lists, forms, and libraries. My favorite part was that they gave me the freedom to execute the project through every stage, from planning and development, to testing, training, and deployment!
                         </p>
@@ -49,7 +62,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>University of California, Riverside <span>2014-2018</span></h2>
+                        <h2>University of California, Riverside <span>Sept. 2014 - Mar. 2018</span></h2>
                         <p>
                           I moved from Gaithersburg, MD as a first generation college student. While completing a degree in Business Administration with a focus on Management, I worked with multiple facets of higher education:
                           <ul>
